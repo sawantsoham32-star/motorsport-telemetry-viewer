@@ -5,7 +5,7 @@ using real F1 race data from the 2024 season.
 
 Built by an MSc Motorsport Engineering graduate to replicate 
 core MoTeC i2 Pro functionality using open-source tools.
-
+![Telemetry Viewer](screenshot.png) 
 What It Does : 
 - Pulls real F1 race telemetry via FastF1 API
 - Derives wheel torque from first principles 
