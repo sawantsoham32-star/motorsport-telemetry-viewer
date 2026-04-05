@@ -1,0 +1,5 @@
+fastf1
+PyQt6
+pyqtgraph
+pandas
+numpy 
